@@ -48,3 +48,6 @@ python app.py
 cd smart-property
 npm install
 npm run dev
+
+### Developer 
+Muhammad Dwi Reza
